@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 int main(){
-    int length = 2;
+    int length = 2;     /the variable store the values init
     int width = 2;
     int area;
     area = length * width;
